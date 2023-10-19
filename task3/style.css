@@ -1,0 +1,27 @@
+#calculator{
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 2px solid #1E90FF; /* Blue border */
+            border-radius: 10px;
+            background: #F0F8FF; /* Light blue background */
+        }
+        input[type="text"] {
+            width: 100%;
+            font-size: 20px;
+            margin-bottom: 10px;
+            background: #B0E0E6; /* Blue background for display */
+            color: #000; /* Black text color */
+            border: 1px solid #1E90FF; /* Blue border for display */
+            border-radius: 5px;
+        }
+        .btn {
+            width: 60px;
+            height: 60px;
+            font-size: 20px;
+            margin: 5px;
+            background: #1E90FF; /* Blue background for buttons */
+            color: #FFF; /* White text color for buttons */
+            border: none;
+            border-radius: 5px;
+        }
